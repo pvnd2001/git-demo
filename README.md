@@ -1,3 +1,3 @@
 #demo git repo
-#mod
+#modify
 Read Me!
